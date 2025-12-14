@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Forward（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク）",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T09:55:58.416345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Move Forward (feat. Jai)",
+      "artist": "Flame",
+      "has_synced": true,
+      "path": "select/01_Move_Forward_(feat._Jai)_Flame.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forward (feat. ÊMIA)",
+      "artist": "duumu",
+      "has_synced": true,
+      "path": "select/02_Forward_(feat._ÊMIA)_duumu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FORWARD (feat. LEILAH)",
+      "artist": "SBTRKT",
+      "has_synced": true,
+      "path": "select/03_FORWARD_(feat._LEILAH)_SBTRKT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forward (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_Forward_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forward (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_Forward_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forward (feat. ÊMIA)",
+      "artist": "Duumu",
+      "has_synced": true,
+      "path": "select/06_Forward_(feat._ÊMIA)_Duumu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forward (feat. James Blake)",
+      "artist": "Beyoncé feat. James Blake",
+      "has_synced": true,
+      "path": "select/07_Forward_(feat._James_Blake)_Beyoncé_feat._James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forward (feat. James Blake)",
+      "artist": "Beyoncé, James Blake",
+      "has_synced": true,
+      "path": "select/08_Forward_(feat._James_Blake)_Beyoncé,_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forward Feat. James Blake",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/09_Forward_Feat._James_Blake_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forward (feat. Eric Dawkins)",
+      "artist": "James Fortune & FIYA feat. Eric Dawkins",
+      "has_synced": false,
+      "path": "select/10_Forward_(feat._Eric_Dawkins)_James_Fortune_&_FIYA_feat._Eric_Dawkins.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fast Forward (feat. Jahshua Smith)",
+      "artist": "Packy feat. Jahshua Smith",
+      "has_synced": false,
+      "path": "select/11_Fast_Forward_(feat._Jahshua_Smith)_Packy_feat._Jahshua_Smith.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fast Forward (feat. Jahshua Smith)",
+      "artist": "Packy",
+      "has_synced": false,
+      "path": "select/12_Fast_Forward_(feat._Jahshua_Smith)_Packy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fashion Forward feat. Young Thug",
+      "artist": "Skippa Da Flippa",
+      "has_synced": false,
+      "path": "select/13_Fashion_Forward_feat._Young_Thug_Skippa_Da_Flippa.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moving Forward (feat. Beezy Coleman)",
+      "artist": "Ziggy Marley",
+      "has_synced": false,
+      "path": "select/14_Moving_Forward_(feat._Beezy_Coleman)_Ziggy_Marley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fast Forward (feat. Marteria)",
+      "artist": "Trettmann",
+      "has_synced": true,
+      "path": "select/15_Fast_Forward_(feat._Marteria)_Trettmann.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Looking Forward (feat. Kate Micucci)",
+      "artist": "Steven Universe",
+      "has_synced": true,
+      "path": "select/16_Looking_Forward_(feat._Kate_Micucci)_Steven_Universe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Keep Moving Forward (feat. Nikka Costa)",
+      "artist": "The Driver Era",
+      "has_synced": true,
+      "path": "select/17_Keep_Moving_Forward_(feat._Nikka_Costa)_The_Driver_Era.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Looking Forward (feat. Kate Micucci, Rebecca Sugar & aivi & surasshu)",
+      "artist": "Rebecca Sugar",
+      "has_synced": true,
+      "path": "select/18_Looking_Forward_(feat._Kate_Micucci,_Rebecca_Sugar_&_aivi_&_surasshu)_Rebecca_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Moving Forward (feat. Ricardo Sanchez)",
+      "artist": "Hezekiah Walker & LFC",
+      "has_synced": true,
+      "path": "select/19_Moving_Forward_(feat._Ricardo_Sanchez)_Hezekiah_Walker_&_LFC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forward (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_Forward_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
